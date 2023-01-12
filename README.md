@@ -7,7 +7,7 @@
 
 [![Read the documentation at https://recording-angel-server.readthedocs.io/](https://img.shields.io/readthedocs/recording-angel-server/latest.svg?label=Read%20the%20Docs)][read the docs]
 [![Tests](https://github.com/ErdemOzgen/recording-angel-server/workflows/Tests/badge.svg)][tests]
-[![Codecov](https://codecov.io/gh/ErdemOzgen/recording-angel-server/branch/main/graph/badge.svg)][codecov]
+[![Codecov](https://codecov.io/gh/ErdemOzgen/recording-angel-server/branch/master/graph/badge.svg)][codecov]
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
@@ -68,6 +68,6 @@ This project was generated from [@cjolowicz]'s [Hypermodern Python Cookiecutter]
 
 <!-- github-only -->
 
-[license]: https://github.com/ErdemOzgen/recording-angel-server/blob/main/LICENSE
-[contributor guide]: https://github.com/ErdemOzgen/recording-angel-server/blob/main/CONTRIBUTING.md
+[license]: https://github.com/ErdemOzgen/recording-angel-server/blob/master/LICENSE
+[contributor guide]: https://github.com/ErdemOzgen/recording-angel-server/blob/master/CONTRIBUTING.md
 [command-line reference]: https://recording-angel-server.readthedocs.io/en/latest/usage.html
